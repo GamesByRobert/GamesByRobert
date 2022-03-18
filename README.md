@@ -1,4 +1,6 @@
-### Hi there 👋
+#### Welcome,
+#### (21 He/Him) I took videogame design and development at NSCC and now working on relearning the how to's after a couple years away. 
+#### I focus in unity and using C#
 
 <!--
 **GamesByRobert/GamesByRobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
